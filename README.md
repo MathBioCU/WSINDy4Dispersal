@@ -3,8 +3,10 @@ Weak form model discovery for insect dispersal.
 
 <img width="469" height="324" alt="CATS_WSINDY_PIC" src="https://github.com/user-attachments/assets/90722c88-fab0-419e-bd1c-1ab362f2ca26" />
 
+---
+
 Python code accompanying the manuscript **"Weak Form Learning for Mean-Field Partial Differential Equations: an Application to Caterpillar Movement"** submitted to *[journal name]*
-- Zenodo: [will update once pre-print is up]
+- Zenodo: [https://zenodo.org/records/17156064](https://zenodo.org/records/17156064)
 - ArXiV pre-print: [will update once pre-print is up]
 ```
 @misc{?
@@ -17,12 +19,13 @@ Python code accompanying the manuscript **"Weak Form Learning for Mean-Field Par
       url={?}}
 ```
 
-- See [the tutorials and examples located here](https://github.com/SethMinor/PyWSINDy-for-PDEs) for instructions on how to use the codebase.
-- To recreate results in the paper, see the `wsindy_for_dispersal.ipynb` notebook.
-
 **Open data:** see the [`caterpillars.csv`](https://github.com/MathBioCU/WSINDy4Dispersal/blob/main/caterpillars.csv) file.
+- See [the tutorials and examples located here](https://github.com/SethMinor/PyWSINDy-for-PDEs) for instructions on how to use the codebase.
+- To recreate results in the paper, see the [`wsindy_for_dispersal.ipynb`](https://github.com/MathBioCU/WSINDy4Dispersal/blob/main/wsindy_for_dispersal.ipynb) notebook.
 
-###### This algorithm uses the following dependencies:
+---
+
+###### Our code uses the following dependencies:
 ```python3
 # Core
 import torch
