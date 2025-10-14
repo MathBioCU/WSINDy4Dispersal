@@ -5,18 +5,19 @@ Weak form model discovery for insect dispersal.
 
 ---
 
-Python code accompanying the manuscript **"Weak Form Learning for Mean-Field Partial Differential Equations: an Application to Caterpillar Movement"** submitted to *[journal name]*
+Python code accompanying the manuscript **"Weak-Form Learning for Mean-Field Partial Differential Equations: an Application to Insect Movement"** submitted to the *SIAM Journal on Life Sciences*
 - Zenodo: [https://zenodo.org/records/17156064](https://zenodo.org/records/17156064)
-- ArXiV pre-print: [will update once pre-print is up]
+- ArXiV pre-print: [https://doi.org/10.48550/arXiv.2510.07786](https://doi.org/10.48550/arXiv.2510.07786)
 ```
-@misc{?
-      title={?}, 
-      author={?},
-      year={?},
-      eprint={?},
-      archivePrefix={?},
-      primaryClass={?},
-      url={?}}
+@misc{minor2025weakformlearningmeanfield,
+      title={Weak Form Learning for Mean-Field Partial Differential Equations: an Application to Insect Movement}, 
+      author={Seth Minor and Bret D. Elderd and Benjamin Van Allen and David M. Bortz and Vanja Dukic},
+      year={2025},
+      eprint={2510.07786},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2510.07786}, 
+}
 ```
 
 **Open data:** see the [`caterpillars.csv`](https://github.com/MathBioCU/WSINDy4Dispersal/blob/main/caterpillars.csv) file.
